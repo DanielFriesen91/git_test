@@ -2,3 +2,5 @@ Hallo Welt!
 Ich bin da.
 
 Jetzt nutze ich den VS commit.
+
+Ich wiederhole noch mal die Übung.
